@@ -1,0 +1,8 @@
+panel
+altair
+seaborn
+matplotlib	
+pandas
+numpy
+hvplot
+nbconvert

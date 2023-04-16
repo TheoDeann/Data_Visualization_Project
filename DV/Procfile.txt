@@ -1,0 +1,1 @@
+web: panel serve DV_T3.py --address="0.0.0.0" --port=$PORT
