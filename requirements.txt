@@ -1,11 +1,8 @@
 panel
 altair
-os
 seaborn
-matplotlib
-ipywidgets	
+matplotlib	
 pandas
 numpy
 hvplot
-scikit-learn
 nbconvert
