@@ -1,0 +1,11 @@
+panel
+altair
+os
+seaborn
+matplotlib
+ipywidgets	
+pandas
+numpy
+hvplot
+scikit-learn
+nbconvert
