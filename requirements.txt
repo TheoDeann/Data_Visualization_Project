@@ -1,4 +1,0 @@
-panel
-hvplot
-scikit-learn
-nbconvert
